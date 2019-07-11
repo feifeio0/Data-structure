@@ -1,4 +1,4 @@
-//二分查找片段代码 
+//浜屽垎鏌ユ壘鐗囨浠ｇ爜 
 Position BinarySearch( List L, ElementType X )
 {
 	if(L==NULL)
